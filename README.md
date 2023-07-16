@@ -1,3 +1,3 @@
 # LinearSystemMatrix
 
-https://replit.com/@MatheSchool/BigMatrixInverse#main.py
+https://replit.com/@MatheSchool/LinearSystemMatrix#main.py
